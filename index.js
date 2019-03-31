@@ -1,4 +1,8 @@
-const customerName = "bob"
+function() {
+  customerName = "bob";
+}
+
+
 const leastFavoriteCustomer = "mary"
 
 // function upperCaseCustomerName() {
