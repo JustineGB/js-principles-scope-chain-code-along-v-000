@@ -1,9 +1,6 @@
-function() {
-  customerName = "bob";
-}
+var customerName = "bob";
 
-
-const leastFavoriteCustomer = "mary"
+//const leastFavoriteCustomer = "mary"
 
 // function upperCaseCustomerName() {
 //   customerName =  customerName.toUpperCase();
